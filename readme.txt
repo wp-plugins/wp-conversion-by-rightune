@@ -11,7 +11,6 @@ Play to your visitors' emotion and convert them into loyal customers by playing 
 
 We'll customized play lists especially for your website that will create a relevant, attractive ambiance on your website. This ambiance adds a deep emotional dimension to your site's content and directly impacts user behavior and increases staying time, loyalty and revenue. While playing music, we track users' behavior on your website. Our patented, behavioral, machine learning algorithm will continually updates the music in order to increase your business performance.
 Key features:
-
 ♪ You set the desired mood on your website and your business goal and we'll customized a personal background music just for you.
 ♪ We learn what play lists perform best for you and enhance them constantly.
 ♪ Dashboard screen with full information regarding what we played and its business impact.
@@ -28,9 +27,9 @@ Key features:
 1. Upload the plugin to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress  
 3. Follow the instructions on the plugin settings page:
-    3.1. Go to [righTune's sign up page]("http://dashboard.rightune.com/signup?tag=wp") to customize your player.
-    3.2. Copy the code you'll get at the last step.
-    3.3. Paste the code at the box in the settings page and click the Save Changes button below.
+    1. Go to [righTune's sign up page]("http://dashboard.rightune.com/signup?tag=wp1") to customize your player.
+    2. Copy the code you'll get at the last step.
+    3. Paste the code at the box in the settings page and click the Save Changes button below.
 
 == Frequently Asked Questions ==
 You can find our detailed FAQ page [here]("http://www.rightune.com/faq").  
