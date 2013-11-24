@@ -27,7 +27,7 @@ function rightune_options_page() {
 	<p>
 	<strong>Follow this steps</strong> to generate your own unique player:
 	<ol>
-		<li>Go to righTune's <a href="http://dashboard.rightune.com/signup?tag=wp" target="_blank">sign up page</a> to customize your player.</li>	
+		<li>Go to righTune's <a href="http://dashboard.rightune.com/signup?tag=wp1" target="_blank">sign up page</a> to customize your player.</li>	
 		<li> Copy the code you'll get at the last step.</li>
 		<li>Paste code at this box and Click the Save Changes button below.</li>
 	</ol>
