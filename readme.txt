@@ -5,12 +5,11 @@ Requires at least: 2.7
 Tested up to: 3.7
 Stable tag: 1.0
 
-Improve your visitor​'s engagement & conversion rate by playing personalized background music. Used by 1000 websites. Measurable, proven, quick results.​
+Improve your visitor​'s engagement & conversion rate by playing personalized background music. Measurable, proven, quick results.​
 
 == Description ==
 
 Play to your visitor​'s emotion and convert them into loyal customers by playing relevant, customized background music.This ambiance adds a deep emotional dimension to your site's content and directly impacts user behavior, increases staying time, loyalty and revenue. ​We take the widely-accepted concept of in-store music used and leverage it for the online world. Up to 20% increase in conversions.
-
 Key features:  
 ♪ You set the desired mood on your website and your business goal and we'll customize play lists just for you. 
 ♪ We learn what play lists perform best for your website and enhance them on a daily basis. 
