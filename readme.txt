@@ -11,12 +11,15 @@ Improve your visitor​'s engagement & conversion rate by playing personalized b
 
 Play to your visitor​'s emotion and convert them into loyal customers by playing relevant, customized background music.This ambiance adds a deep emotional dimension to your site's content and directly impacts user behavior, increases staying time, loyalty and revenue. ​We take the widely-accepted concept of in-store music used and leverage it for the online world. Up to 20% increase in conversions.
 Key features:  
-♪ Daily fresh music from our own huge catalog. No more repetitive or overused music.  
-♪ You set the mood, we'll set the background music for you. We learn what playlists perform best for you.  
+♪ You set the desired mood on your website and your business goal and we'll customize play lists just for you.  
+♪ We learn what play lists perform best for your website and enhance them on a daily basis.  
+♪ Used by more than 1,000 wobsites.  
+♪ Dashboard screen with full information regarding what we played and its business impact.  
 ♪ Allows full customization of the player.  
-♪ Fully integrated with WordPress platform. Doesn't delay website's page load time.  
-♪ Easy to install. In less than 30 seconds you are up and running.  
-♪ Speedy response for any support request.
+♪ Fully integrated with WordPress platform. Doesn't delay website's page load time.
+♪ Easy to install. In less than 30 seconds you are up and running.
+♪ Works perfect for ecommerce, content websites and for landing pages.
+♪ We use our own licensed, huge catalog to choose fresh, relevant play lists.
 
 
 == Installation ==
