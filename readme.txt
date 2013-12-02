@@ -5,20 +5,21 @@ Requires at least: 2.7
 Tested up to: 3.7
 Stable tag: 1.0
 
-Play to your visitors' emotion and convert them into loyal customers by playing relevant, personalized background music. Up to 20% increase in conversions. Used by over 1,000 websites. Measurable, proven, quick results.
+Improve your visitor​'s engagement & conversion rate by playing personalized background music. Used by over 1,000 websites. Measurable, proven, quick results.​
 
 == Description ==
 
-We'll customized play lists especially for your website that will create a relevant, attractive ambiance on your website. This ambiance adds a deep emotional dimension to your site's content and directly impacts user behavior and increases staying time, loyalty and revenue. While playing music, we track users' behavior on your website. Our patented, behavioral, machine learning algorithm will continually updates the music in order to increase your business performance.
-Key features:
-♪ You set the desired mood on your website and your business goal and we'll customized a personal background music just for you.
-♪ We learn what play lists perform best for you and enhance them constantly.
+Play to your visitor​'s emotion and convert them into loyal customers by playing relevant, customized background music.This ambiance adds a deep emotional dimension to your site's content and directly impacts user behavior, increases staying time, loyalty and revenue. ​We take the widely-accepted concept of in-store music used and leverage it for the online world. Up to 20% increase in conversions.
+
+Key features: 
+♪ You set the desired mood on your website and your business goal and we'll customize play lists just for you.
+♪ We learn what play lists perform best for your website and enhance them on a daily basis.
 ♪ Dashboard screen with full information regarding what we played and its business impact.
 ♪ Allows full customization of the player.
 ♪ Fully integrated with WordPress platform. Doesn't delay website's page load time.
 ♪ Easy to install. In less than 30 seconds you are up and running.
-♪ Works perfect for ecommerce or content websites and for landing pages.
-♪ We use our own licensed, huge catalog to choose fresh, relevant play lists.
+♪ Works perfect for ecommerce, content websites and for landing pages.
+♪ We use our own licensed, huge catalog to choose fresh, relevant play lists.sts.
 
  
 
