@@ -17,9 +17,9 @@ Key features:
 ♪ Used by more than 1,000 wobsites.  
 ♪ Dashboard screen with full information regarding what we played and its business impact.  
 ♪ Allows full customization of the player.  
-♪ Fully integrated with WordPress platform. Doesn't delay website's page load time.
-♪ Easy to install. In less than 30 seconds you are up and running.
-♪ Works perfect for ecommerce, content websites and for landing pages.
+♪ Fully integrated with WordPress platform. Doesn't delay website's page load time.  
+♪ Easy to install. In less than 30 seconds you are up and running.  
+♪ Works perfect for ecommerce, content websites and for landing pages.  
 ♪ We use our own licensed, huge catalog to choose fresh, relevant play lists.
 
 
