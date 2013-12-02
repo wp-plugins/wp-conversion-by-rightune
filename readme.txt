@@ -14,12 +14,13 @@ Play to your visitor​'s emotion and convert them into loyal customers by playi
 Key features:
 ♪ You set the desired mood on your website and your business goal and we'll customize play lists just for you. 
 ♪ We learn what play lists perform best for your website and enhance them on a daily basis. 
+♪ User by more then 1,000 websites.
 ♪ Dashboard screen with full information regarding what we played and its business impact. 
 ♪ Allows full customization of the player. 
 ♪ Fully integrated with WordPress platform. Doesn't delay website's page load time. 
 ♪ Easy to install. In less than 30 seconds you are up and running. 
 ♪ Works perfect for ecommerce, content websites and for landing pages. 
-♪ We use our own licensed, huge catalog to choose fresh, relevant play lists.sts.
+♪ We use our own licensed, huge catalog to choose fresh, relevant play lists.
 
 
 == Installation ==
