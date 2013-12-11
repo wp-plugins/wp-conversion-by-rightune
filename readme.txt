@@ -9,7 +9,7 @@ Improve your visitor​s' engagement & conversion rate by playing personalized b
 
 == Description ==
 
-Play to your visitor​'s emotion and convert them into loyal customers by playing relevant, customized background music. This ambiance adds a deep emotional dimension to your site's content and directly impacts user behavior, increases staying time, loyalty and revenue. ​We take the widely-accepted concept of in-store music used and leverage it for the online world. Up to 20% increase in conversions.
+Play to your visitor​s' emotion and convert them into loyal customers by playing relevant, customized background music. This ambiance adds a deep emotional dimension to your site's content and directly impacts user behavior, increases staying time, loyalty and revenue. ​We take the widely-accepted concept of in-store music used and leverage it for the online world. Up to 20% increase in conversions.
 
 Key features:  
 ♪ You set the desired mood on your website and your business goal and we'll customize play lists just for you.  
@@ -24,13 +24,22 @@ Key features:
 
 
 == Installation ==
+For an automatic installation through WordPress:
 
-1. Upload the plugin to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress  
-3. Follow the instructions on the plugin settings page:
-    1. Go to [righTune's sign up page]("http://dashboard.rightune.com/signup?tag=wp1") to customize your player.
-    2. Copy the code you'll get at the last step.
-    3. Paste the code at the box in the settings page and click the Save Changes button below.
+    1. Go to the 'Add New' plugins screen in your WordPress admin area
+    2. Search for 'WordPress Conversion by righTune'
+    3. Click 'Install Now' and activate the plugin
+    4. Follow the instructions on the plugin settings page
+
+For a manual installation via FTP:
+
+    1. Upload the plugin folder to the /wp-content/plugins/ directory
+    2. Activate the plugin through the 'Plugins' screen in your WordPress admin area
+    3. Follow the instructions on the plugin settings page
+
+To upload the plugin through WordPress, instead of FTP:
+
+    Upload the downloaded zip file on the 'Add New' plugins screen (see the 'Upload' tab) in your WordPress admin area and activate.
 
 == Frequently Asked Questions ==
 You can find our detailed FAQ page [here]("http://www.rightune.com/faq").  
