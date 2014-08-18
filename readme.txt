@@ -2,7 +2,7 @@
 Contributors: righTune 
 Tags: landing page, conversion, conversion rate, revenue, ecommerce, e-commerce, music, background music, righTune, a b testing, analytics, CPC, CPM, CAP, marketing, visitors, conversion rates, engagement, emotional engagement, staying time, widget, music, music player, plugin
 Requires at least: 2.7
-Tested up to: 3.7
+Tested up to: 3.9.2
 Stable tag: 1.0
 
 Improve your visitor​s' engagement & conversion rate by playing personalized background music. Measurable, proven, quick results.​
