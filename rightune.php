@@ -3,7 +3,7 @@
   Plugin Name: WordPress Conversion by righTune
   Plugin URI: http://www.rightune.com
   Description: Play to your visitors' emotion and convert them into loyal customers by playing relevant, personalized background music. Up to 20% increase in conversions. Used by over 1,000 websites. Measurable, proven, quick results.
-  Version: 1.0
+  Version: 1.0.2
   Author: righTune
   Author URI: http://www.rightune.com
  */
